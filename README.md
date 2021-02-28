@@ -5,7 +5,7 @@
 <p align="center">
 <a href="https://twitter.com/flor_granucci" target="blank"><img align="center" src="https://i.ibb.co/bbQLXHZ/gorjeo.png" alt="flor_granucci" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/florencia vanina granucci" target="blank"><img align="center" src="https://i.ibb.co/zfPHHfC/linkedin-1.png" alt="florencia vanina granucci" height="40" width="40" /></a>
-<a href="https://instagram.com/florgranucci" target="blank"><img align="center" src="https://i.ibb.co/sqSY2mF/instagram.png" alt="florgranucci" height="30" width="40" /></a>
+<a href="https://instagram.com/florgranucci" target="blank"><img align="center" src="https://i.ibb.co/sqSY2mF/instagram.png" alt="florgranucci" height="40" width="40" /></a>
 </p>
 <p align="center">
 <img align="center" src="https://i.ibb.co/qWFkDxr/Powerful-pana-2.png" alt="illustration" width="300" height="300" />
