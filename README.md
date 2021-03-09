@@ -17,8 +17,8 @@
 <h3 align="center">Some projects</h3>
 
 ```
-:peach: Front-end café community project
-:strawberry:  Built with HTML, CSS, TAILWIND, JAVASCRIPT
+*Front-end café community project
+*Built with HTML, CSS, TAILWIND, JAVASCRIPT
 
 ```
 
