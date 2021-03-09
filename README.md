@@ -25,7 +25,7 @@
 
 > Built with HTML, CSS, TAILWIND, JAVASCRIPT
 
-![ONG project](https://i.ibb.co/yVgnWbT/ong-3.gif)
+![ONG project](https://i.ibb.co/yVgnWbT/ong-1.gif)
 
 </br>
 </br>
