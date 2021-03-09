@@ -16,11 +16,11 @@
 
 <h3 align="center">Some projects</h3>
 
-```
-*Front-end café community project
-*Built with HTML, CSS, TAILWIND, JAVASCRIPT
 
-```
+> Front-end café community project
+> Built with HTML, CSS, TAILWIND, JAVASCRIPT
+
+
 
 <p align="center">
 <img align="center" src="https://i.ibb.co/R07TjbT/ong.gif" alt="ong-project" width='300' height='300'/>
