@@ -15,10 +15,13 @@
 
 
 <h3 align="center">Some projects</h3>
+
 ```
-:peach: <p>Front-end café community project</p> :peach:
-:strawberry: <p>Built with HTML, CSS, TAILWIND, JAVASCRIPT</p> :strawberry:
+:peach: Front-end café community project
+:strawberry:  Built with HTML, CSS, TAILWIND, JAVASCRIPT
+
 ```
+
 <p align="center">
 <img align="center" src="https://i.ibb.co/R07TjbT/ong.gif" alt="ong-project" />
 </p>
