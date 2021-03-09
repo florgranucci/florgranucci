@@ -28,7 +28,7 @@
 
 
 <p align="center">
-<img align="center" src="https://i.ibb.co/R07TjbT/ong.gif" alt="ong-project" width='300' height='300'/>
+<img align="center" src="https://i.ibb.co/r4mgR8Q/ong-1.gif" alt="ong-project" />
 </p>
 
 
