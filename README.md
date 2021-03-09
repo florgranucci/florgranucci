@@ -23,7 +23,7 @@
 ```
 
 <p align="center">
-<img align="center" src="https://i.ibb.co/R07TjbT/ong.gif" alt="ong-project" />
+<img align="center" src="https://i.ibb.co/R07TjbT/ong.gif" alt="ong-project" width='300' height='300'/>
 </p>
 
 
