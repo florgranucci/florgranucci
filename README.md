@@ -41,7 +41,3 @@
 </br>
 </br>
 
-
-> Built with REACT, MATERIAL UI, COMMERCEJS, STRIPE. (in process)
-
-![mini-meli](https://i.ibb.co/KwG7vsJ/commercejs.gif)
