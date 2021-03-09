@@ -18,17 +18,13 @@
 </br>
 
 
-<h3 align="center">Some projects</h3>
+## Fav projects
 
 
 > Front-end café community project
 
 > Built with HTML, CSS, TAILWIND, JAVASCRIPT
 
-
-
-<p align="center">
-<img align="center" src="https://i.ibb.co/r4mgR8Q/ong-1.gif" alt="ong-project" />
-</p>
+![ONG project](https://i.ibb.co/r4mgR8Q/ong-1.gif)
 
 
