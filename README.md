@@ -1,5 +1,5 @@
 
-<h3 align="center">Junior fullstack developer from Cordoba, Argentina.</h3>
+<h3 align="center">Fullstack developer from Cordoba, Argentina.</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
