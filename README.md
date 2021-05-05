@@ -10,7 +10,7 @@
 </br>
 </br>
 <p align="center">
-<img align="center" src="https://i.ibb.co/hWNGykj/undraw-Reading-re-29f8.png" alt="illustration" width="300" height="300" />
+
  </p>
 </br>
 </br>
