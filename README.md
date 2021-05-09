@@ -3,9 +3,9 @@
 
 <h4>Connect with me:</h4>
 <p>
-<a href="https://twitter.com/flor_granucci" target="blank"><img align="center" src="https://i.ibb.co/RPMzryS/twitter.png" alt="flor_granucci" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/florencia vanina granucci" target="blank"><img align="center" src="https://i.ibb.co/MSt5dKp/linkedin.png" alt="florencia vanina granucci" height="20" width="20" /></a>
-<a href="https://instagram.com/florgranucci" target="blank"><img align="center" src="https://i.ibb.co/kh90PWM/instagram.png" alt="florgranucci" height="20" width="20" /></a>
+<a href="https://twitter.com/flor_granucci" target="blank"><img align="center" src="https://i.ibb.co/RPMzryS/twitter.png" alt="flor_granucci" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/florencia vanina granucci" target="blank"><img align="center" src="https://i.ibb.co/MSt5dKp/linkedin.png" alt="florencia vanina granucci" height="40" width="40" /></a>
+<a href="https://instagram.com/florgranucci" target="blank"><img align="center" src="https://i.ibb.co/kh90PWM/instagram.png" alt="florgranucci" height="40" width="40" /></a>
 </p>
 <h5>Languages and Tools:</h5>
 
