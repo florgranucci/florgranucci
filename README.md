@@ -1,5 +1,5 @@
 
-<h3>Frontend developer from Cordoba, Argentina.</h3>
+<h3>Frontend developer</h3>
 
 <h4>Connect with me:</h4>
 <p>
