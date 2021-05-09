@@ -17,5 +17,5 @@
  <a href="https://reactjs.org/" target="_blank"> <img src="https://i.ibb.co/gDdV2f5/iconfinder-react-1296845.png" alt="react" width="40" height="40"/> </a> 
  <a href="https://www.angular.io/" target="_blank"> <img src="https://i.ibb.co/545XjGY/iconfinder-angular-1296847.png" alt="angularjs" width="40" height="40"/>
  <br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=florgranucci&theme=dark&show_icons=true)
+<h4>GIthub stats:</h4>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=florgranucci&theme=dracula&show_icons=true)
