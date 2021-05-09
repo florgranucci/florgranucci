@@ -20,4 +20,5 @@
 <h4>Github stats:</h4>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=florgranucci&theme=dracula&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=florgranucci)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=florgranucci)
