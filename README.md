@@ -18,4 +18,4 @@
  <a href="https://www.angular.io/" target="_blank"> <img src="https://i.ibb.co/545XjGY/iconfinder-angular-1296847.png" alt="angularjs" width="40" height="40"/>
  <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=florgranucci&theme=dark&show_icons=true)
