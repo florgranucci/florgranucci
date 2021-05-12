@@ -14,8 +14,10 @@
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://i.ibb.co/2q1BYps/icons8-html-5-128.png" alt="html" width="40" height="40"/> </a> 
  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://i.ibb.co/W0mzJxc/icons8-css3-128.png" alt="css3" width="40" height="40"/></a> 
  <a href="https://reactjs.org/" target="_blank"> <img src="https://i.ibb.co/M5rP4BK/icons8-react-128.png" alt="react" width="40" height="40"/> </a> 
- 
  <br>
+ <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://i.ibb.co/c1jS4Qt/nodejs.png" alt="css3" width="40" height="40"/></a> 
+ <a href="https://reactjs.org/" target="_blank"> <img src="https://icongr.am/devicon/mongodb-plain-wordmark.svg?size=128&color=74bec2" alt="react" width="40" height="40"/> </a> 
+ 
 <h4>Github stats:</h4>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=florgranucci&theme=react&show_icons=true)
