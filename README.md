@@ -15,8 +15,8 @@
  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://i.ibb.co/W0mzJxc/icons8-css3-128.png" alt="css3" width="40" height="40"/></a> 
  <a href="https://reactjs.org/" target="_blank"> <img src="https://i.ibb.co/M5rP4BK/icons8-react-128.png" alt="react" width="40" height="40"/> </a> 
  <br>
- <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://icongr.am/devicon/nodejs-plain.svg?size=40&color=74bec2" alt="css3"/></a> 
- <a href="https://reactjs.org/" target="_blank"> <img src="https://icongr.am/devicon/mongodb-plain-wordmark.svg?size=40&color=74bec2" alt="react"/> </a> 
+ <a href="https://nodejs.org/es/" target="_blank"> <img src="https://icongr.am/devicon/nodejs-plain.svg?size=40&color=74bec2" alt="node"/></a> 
+ <a href="https://www.mongodb.com/es" target="_blank"> <img src="https://icongr.am/devicon/mongodb-plain-wordmark.svg?size=40&color=74bec2" alt="mongosb"/> </a> 
  
 <h4>Github stats:</h4>
   
