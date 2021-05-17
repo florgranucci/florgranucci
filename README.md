@@ -2,11 +2,8 @@
 
  - :sunflower: Currently learning Next JS
  - :crescent_moon: Astronomy enthusiast
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-
+ - :tanabata_tree: Open to work in freelance projects
   
-
-mailbox How to reach me agustinquetto@gmail.com
 <h4>Connect with me:</h4>
 <p>
 <a href="https://twitter.com/flor_granucci" target="blank"><img align="center" src="https://i.ibb.co/dMYV3DX/icons8-twitter-128.png" alt="flor_granucci" height="40" width="40" /></a>
