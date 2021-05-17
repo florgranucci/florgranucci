@@ -10,6 +10,8 @@
 <a href="https://linkedin.com/in/florencia vanina granucci" target="blank"><img align="center" src="https://i.ibb.co/LP7Mssm/icons8-linkedin-128.png" alt="florencia vanina granucci" height="40" width="40" /></a>
 <a href="https://instagram.com/florgranucci" target="blank"><img align="center" src="https://i.ibb.co/d02FBrt/icons8-instagram-old-128.png" alt="florgranucci" height="40" width="40" /></a>
 </p>
+
+ - :envelope: florgranucci2407@gmail.com
 <h4>Languages and Tools:</h4>
 
 <p> 
