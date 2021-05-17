@@ -11,7 +11,7 @@
 <a href="https://instagram.com/florgranucci" target="blank"><img align="center" src="https://i.ibb.co/d02FBrt/icons8-instagram-old-128.png" alt="florgranucci" height="40" width="40" /></a>
 </p>
 
- - :envelope: florgranucci2407@gmail.com
+:dolphin:[Mail me](florgranucci2407@gmail.com)
 <h4>Languages and Tools:</h4>
 
 <p> 
