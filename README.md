@@ -2,7 +2,6 @@
 
 - :sunflower: Currently learning Next JS
 - :crescent_moon: Astronomy enthusiast
-- :tanabata_tree: Open to work in freelance projects
   
 <h4>Connect with me:</h4>
 <p>
