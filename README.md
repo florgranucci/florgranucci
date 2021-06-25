@@ -12,7 +12,7 @@
 ---
 
 <p align="center">
-<a href="https://developer.mozilla.org/es/docs/Web/HTML" target="blank"><img align="center" src="https://i.ibb.co/Ky0gx9p/icons8-html-5-64-1.png" alt="html" height="50" width="50" /></a>
-<a href="https://developer.mozilla.org/es/docs/Web/CSS" target="blank"><img align="center" src="https://i.ibb.co/1MYpY4h/icons8-css3-64.png" alt="css" height="50" width="50" /></a>
-<a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="blank"><img align="center" src="https://i.ibb.co/PtpJsxM/icons8-logotipo-de-javascript-64.png" alt="javascript" height="50" width="50" /></a>
+<a href="https://developer.mozilla.org/es/docs/Web/HTML" target="blank"><img align="center" src="https://i.ibb.co/Ky0gx9p/icons8-html-5-64-1.png" alt="html" height="64" width="64" /></a>
+<a href="https://developer.mozilla.org/es/docs/Web/CSS" target="blank"><img align="center" src="https://i.ibb.co/1MYpY4h/icons8-css3-64.png" alt="css" height="64" width="64" /></a>
+<a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="blank"><img align="center" src="https://i.ibb.co/PtpJsxM/icons8-logotipo-de-javascript-64.png" alt="javascript" height="64" width="64" /></a>
 </p>
