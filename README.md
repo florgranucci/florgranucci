@@ -11,6 +11,6 @@
 </p>
 
 <h4>Github stats:</h4>
- <div align='center'>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=florgranucci&theme=calm&show_icons=true)
-</div>
+
