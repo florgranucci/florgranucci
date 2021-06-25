@@ -11,9 +11,9 @@
 
 <p align="center">
 <a href="https://es.reactjs.org/" target="blank"><img align="center" src="https://i.ibb.co/wS90f2b/icons8-reaccionar-100.png" alt="react" height="64" width="64" /></a>
-<a href="https://developer.mozilla.org/es/docs/Web/HTML" target="blank"><img align="center" src="https://i.ibb.co/Ky0gx9p/icons8-html-5-64-1.png" alt="html" height="64" width="64" /></a>
-<a href="https://developer.mozilla.org/es/docs/Web/CSS" target="blank"><img align="center" src="https://i.ibb.co/1MYpY4h/icons8-css3-64.png" alt="css" height="64" width="64" /></a>
-<a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="blank"><img align="center" src="https://i.ibb.co/PtpJsxM/icons8-logotipo-de-javascript-64.png" alt="javascript" height="64" width="64" /></a>
+<a href="https://developer.mozilla.org/es/docs/Web/HTML" target="blank"><img align="center" src="https://i.ibb.co/Ky0gx9p/icons8-html-5-64-1.png" alt="html" height="60" width="60" /></a>
+<a href="https://developer.mozilla.org/es/docs/Web/CSS" target="blank"><img align="center" src="https://i.ibb.co/1MYpY4h/icons8-css3-64.png" alt="css" height="60" width="60" /></a>
+<a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="blank"><img align="center" src="https://i.ibb.co/PtpJsxM/icons8-logotipo-de-javascript-64.png" alt="javascript" height="60" width="60" /></a>
 <a href="https://nodejs.org/es/" target="blank"><img align="center" src="https://i.ibb.co/XXxCs5H/icons8-nodejs-144.png" alt="nodejs" height="64" width="64" /></a>
 </p>
 
